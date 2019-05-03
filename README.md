@@ -8,7 +8,7 @@ It is not my screen or my laptop.
 It is just the color. It is like on some colors the contrast is off or something I have tested enough to know that it is just some 
 colors. Breeze Dark theme is one of those colors on my PC and it makes me mad because I like the Breeze dark theme so I changed it just
 a little and I mean just a little and guess what it is slick again and looks great but still looks like the Breeze dark theme so I am 
-doing this for people out there that may have the same problem but really like the Breeze dark look. 
+doing this for people out there that may have the same problem but really like the Breeze dark look. I ma just gonna leave the color scheme
+here.
 
-Icons in screenshots are the Korla icons here:
-https://github.com/bikass/korla
+
