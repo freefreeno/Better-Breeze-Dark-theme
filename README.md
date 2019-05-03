@@ -1,4 +1,4 @@
-# Better-Breeze-Dark-theme
+# Better Breeze Dark theme colors
 Just one small color change to the Breeze dark theme makes a world of difference for me
 This is the deal.
 Some colors just have a grainy look on my PC and it is not a top of the line screen but it is fairly new and it is fairly good.
